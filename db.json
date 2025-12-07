@@ -41,6 +41,19 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": 1764990394424,
+      "name": "Cactus",
+      "image": "www.cactus.com",
+      "price": 49.99,
+      "soldOut": false
+    },
+    {
+      "name": "FIg",
+      "image": "fig.com",
+      "price": "20.00",
+      "id": 1764990394425
     }
   ]
 }
